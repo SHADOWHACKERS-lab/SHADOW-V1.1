@@ -1,4 +1,3 @@
-# SHADOW-V1.1
 <p align="center">  
   <a href="">
     <img alt="SHADOWHACKERS-LAB" height="300" src="https://api.shannmoderz.xyz/server/file/XyjKP6IA0VnyFZF.jpg">
@@ -32,7 +31,7 @@ This project  uses Mega.nz's services exclusively for generating session IDs. Th
 
 2. Get Session ID / CREDS.JSON 
     <br>
-<a href='https://replit.com/@SHADOWHACKERS/SHADOW-V11?v=1' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://replit.com/@SHADOWHACKERS.lab/SHADOW-V1.1-bot-pair?v=1' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 ### DEPLOY ON PANEL 
@@ -89,7 +88,7 @@ This project  uses Mega.nz's services exclusively for generating session IDs. Th
 
 WhatsApp Channel: <a href="https://whatsapp.com/channel/0029Vafy50bB4hdZV9YAAn2r"><img alt="WhatsApp" src="https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png"/></a>
 
-- Star ⭐ the repo if you like SHADOW-V1.1.
+- Star ⭐ the repo if you like FIRE-MD.
 
 
 ## `Main Dev` 
@@ -115,7 +114,6 @@ Thanks 🙏🏿 To ANONYMOUS AND BLACK HAT 📱
    
 ## 
 - STILL UNDERSTAND DEVELOPMENT SO IF YOU MEET ANY ERROR DM ME ON WHATSAPP +2349137924240
-
 
 
 
