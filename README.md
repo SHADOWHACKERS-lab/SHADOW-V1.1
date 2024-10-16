@@ -26,12 +26,12 @@ This project  uses Mega.nz's services exclusively for generating session IDs. Th
 
 1. Fork the repo
     <br>
-<a href='https://github.com/SHADOWHACKERS-lab/SHADOW-V1.1/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=blue&color=blue'/></a>
+<a href='https://github.com/SHADOWHACKERS/SHADOW-V11.1/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=blue&color=blue'/></a>
 
 
 2. Get Session ID / CREDS.JSON 
     <br>
-<a href='https://replit.com/@SHADOWHACKERS.lab/SHADOW-V1.1-bot-pair?v=1' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://replit.com/@SHADOWHACKERS.lab/SHADOW-V1.1?v=1' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 ### DEPLOY ON PANEL 
