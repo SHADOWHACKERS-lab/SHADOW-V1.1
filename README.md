@@ -89,7 +89,7 @@ This project  uses Mega.nz's services exclusively for generating session IDs. Th
 
 WhatsApp Channel: <a href="https://whatsapp.com/channel/0029Vafy50bB4hdZV9YAAn2r"><img alt="WhatsApp" src="https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png"/></a>
 
-- Star ⭐ the repo if you like FIRE-MD.
+- Star ⭐ the repo if you like SHADOW-V1.1.
 
 
 ## `Main Dev` 
