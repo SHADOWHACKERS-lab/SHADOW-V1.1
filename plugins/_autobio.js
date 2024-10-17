@@ -30,4 +30,3 @@ function clockString(ms) {
     .map(v => v.toString().padStart(2, 0))
     .join('')
 }
-q
